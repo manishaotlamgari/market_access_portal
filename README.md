@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AgriMart
 
 AgriMart revolutionizes the way you buy and sell agricultural products. Connect directly with farmers, access fresh produce, and enjoy a seamless shopping experience. Empowering farmers, enhancing access. AgriMart – your farm-to-table solution.
@@ -123,3 +124,6 @@ For any inquiries or feedback, please contact us at:
 - **Email:** navipandey67@gmail.com
 
 Thank you for using AgriMart – your farm-to-table solution!
+=======
+# market_access_portal
+>>>>>>> 50f97319b722e427f2009884671934d204e8bd57
